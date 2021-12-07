@@ -15,6 +15,24 @@ The initial tecnology stack will be:
 
 After that, can be made some reseash about polygon and thegraph protocol.
 
+# Development Flow
+
+The project use git submodule. To start the project first clone into the machine, then:
+
+```sh
+$ git submodule init 
+& git submodule update
+```
+
+Then go to the project that you need to modify for futher instructions.
+
+If you already in the project, make sure to be up to date with the remote using the following command:
+```sh
+git pull "$@" &&
+  git submodule sync --recursive &&
+  git submodule update --init --recursive
+```
+
 # References
 
 The first reference will be this article and code:
