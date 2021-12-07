@@ -38,3 +38,13 @@ git pull "$@" &&
 The first reference will be this article and code:
  - https://dev.to/dabit3/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb
  - https://github.com/dabit3/polygon-ethereum-nextjs-marketplace/
+
+# License 
+
+Licensed under the [MIT License](LICENSE).
+
+<br>
+
+___
+
+Made with :black_heart: by Vinícius
